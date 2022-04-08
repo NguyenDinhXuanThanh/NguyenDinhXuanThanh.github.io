@@ -27,10 +27,10 @@
 
   </ol>
   <h3> MỘT SỐ HÌNH ẢNH CỦA CÁC LOÀI MÈO:</h3>
-<img src=https://toiyeumeo.com/wp-content/uploads/2021/03/giong-meo-de-nuoi.jpg width="250" height="150" />
-<img src=https://media.ohay.tv/v1/content/2014/12/q-3-ohay-tv-897.jpg width="250" height="150" />
-<img src=http://file.hstatic.net/1000238938/file/meo-xiem-siamses_d929a3ae67bb439285d7af417a71bfb5_grande.jpg width="250" height="150" />
-<img src=https://recmiennam.com/wp-content/uploads/2018/04/meo-con-de-thuong-32.jpg width="250" height="150" />
+<img src="giong-meo-de-nuoi.jpg" width="250" height="150" />
+<img src="meo-con-de-thuong-32.jpg" width="250" height="150" />
+<img src="meo.jpg" width="250" height="150" />
+<img src="q-3-ohay-tv-897.jpg" width="250" height="150" />
 
   <h3> NHỮNG THÔNG TIN LIÊN QUAN KHÁC </h3>
 
