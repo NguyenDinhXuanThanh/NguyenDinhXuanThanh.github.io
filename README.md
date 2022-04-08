@@ -53,12 +53,5 @@
       <button type ="button">Gửi</button>
       </form>
       </p>
- 
-
-        
-    
-
-      
-
 </body> 
 </html>
