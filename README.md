@@ -28,7 +28,6 @@
   <h3> MỘT SỐ HÌNH ẢNH CỦA CÁC LOÀI MÈO:</h3>
 <img src="giong-meo-de-nuoi.jpg" width="250" height="150" />
 <img src="meo-con-de-thuong-32.jpg" width="250" height="150" />
-<img src="meo.jpg" width="250" height="150" />
 <img src="q-3-ohay-tv-897.jpg" width="250" height="150" />
 
   <h3> NHỮNG THÔNG TIN LIÊN QUAN KHÁC </h3>
