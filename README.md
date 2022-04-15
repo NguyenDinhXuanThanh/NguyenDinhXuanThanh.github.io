@@ -2,7 +2,7 @@
 <head> 
 <meta charset="UTF-8">
 </head>
-<body style="background-color: rgb(32,77,133);"> 
+<body background='meo.jpg'>
       <h1 align="center"> Đây là 1 website về các loài Mèo </h1>
 <i>Mèo (chính xác hơn là loài mèo nhà để phân biệt với các loài trong họ Mèo khác) là động vật có vú, nhỏ nhắn và chuyên ăn thịt, sống chung với loài người, được nuôi để săn vật gây hại hoặc làm thú nuôi cùng với chó nhà. Mèo nhà đã sống gần gũi với loài người ít nhất 9.500 năm,[4] và hiện nay chúng là con vật cưng phổ biến nhất trên thế giới.
 <p>Có rất nhiều các giống mèo khác nhau, một số không có lông hoặc không có đuôi, và chúng có nhiều màu lông khác nhau. Mèo là những con vật có kỹ năng của thú săn mồi và được biết đến với khả năng săn bắt hàng nghìn loại sinh vật để làm thức ăn, ví dụ như chuột. Chúng đồng thời là những sinh vật thông minh, và có thể được dạy hay tự học cách sử dụng các công cụ đơn giản như mở tay nắm cửa hay giật nước trong nhà vệ sinh.</p>
